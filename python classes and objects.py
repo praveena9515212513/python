@@ -7,7 +7,7 @@ class MyClass:
 
 obj1 = MyClass()
 
-'''whenever we create an object or the class in intiated then the init method is
+'''whenever we create an object or the intiate the class then the init method is
 executed'''
 
 class MyClass2:
